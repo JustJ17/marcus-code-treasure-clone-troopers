@@ -1,10 +1,13 @@
-TEAM NAME: [Enter team name]
-CHALLENGE 1: 
-CHALLENGE 2: 
-CHALLENGE 3: 
-CHALLENGE 4: 
-CHALLENGE 5: 
-CHALLENGE 6: 
-COORDINATES: 
-DECODED MESSAGE:
+TEAM NAME: Clone Troopers  
+CHALLENGE 1: 13
+CHALLENGE 2: 2
+CHALLENGE 3: 9
+CHALLENGE 4: 3
+CHALLENGE 5: 8
+CHALLENGE 6: NA, because the secret files got ignored and never made it to the online repositry!
+COORDINATES: 13.2938
+DECODED MESSAGE:The truth is not in the coordinates
+The real TrustValue is your ability to work as a team
+Congrats! You've learned Git and collaboration!
+
 COMPLETION TIME:
